@@ -9,7 +9,7 @@ Website build using HTML5, CSS3, JavaScript and jQuery.
 
 
   
-### <div align="center">I'm Sid, a full-time full-stack freelance developer and UX/UI designer 👨‍💻 working remotely  🚀</div>  
+### <div align="center">I'm Prem, a full-time full-stack freelance developer 👨‍💻 working remotely  🚀</div>  
   
 - 🔭 I’m currently learning Machine Learning  
   
