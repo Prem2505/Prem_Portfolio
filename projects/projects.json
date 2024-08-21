@@ -4,7 +4,7 @@
   {
     "name": "VISINORY",
     "desc": "Basic Studio website landing page built using HTML, CSS and JavaScript.",
-    "image": "VISNORY",
+    "image": "https://github.com/Prem2505/Prem_Portfolio/blob/main/assets/images/projects/VISNORY.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -15,7 +15,7 @@
   {
     "name": "Old Websites",
     "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "TSEC_ananad",
+    "image": "https://github.com/Prem2505/Prem_Portfolio/blob/main/assets/images/projects/TSEC_ananad.png",
     "category": "basicweb",
     "links": {
       "view": "#",
