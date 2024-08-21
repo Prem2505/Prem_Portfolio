@@ -4,7 +4,7 @@
   {
     "name": "VISINORY",
     "desc": "Basic Studio website landing page built using HTML, CSS and JavaScript.",
-    "image": "/assets/images/projects/VISNORY.png",
+    "image": "assets/images/projects/VISNORY.png",
     "category": "basicweb",
     "links": {
       "view": "#",
